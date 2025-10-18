@@ -1,8 +1,5 @@
 # MedTriageAI ⚕️
 
-[![Stars](https://img.shields.io/github/stars/Adityaphophale/MedTriageAI?style=social)](https://github.com/Adityaphophale/MedTriageAI/stargazers)
-[![Forks](https://img.shields.io/github/forks/Adityaphophale/MedTriageAI?style=social)](https://github.com/Adityaphophale/MedTriageAI/network/members)
-
 ## Description 🏥
 
 MedTriageAI is an AI-powered medical triage assistant designed to provide symptom-based guidance. It leverages Python, LangGraph, and Gemini AI to assist users in understanding their symptoms and potential next steps. This project aims to offer preliminary guidance and should not replace professional medical advice.
